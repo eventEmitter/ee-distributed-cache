@@ -1,5 +1,7 @@
 # ee-distributed-cache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-distributed-cache.svg)](https://greenkeeper.io/)
+
 Distributed Object caching using memcached
 
 ## installation
