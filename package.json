@@ -16,17 +16,17 @@
         "url"                               : "https://github.com/eventEmitter/ee-distributed-cache/issues"
     }
     , "dependencies": {
-          "ee-class"                        : "1.0.x"
-        , "ee-event-emitter"                : "0.1.x"
-        , "ee-types"                        : "0.1.x"
-        , "ee-log"                          : "0.2.x"
-        , "memcached"                       : "0.2.x"
+          "ee-class"                        : "~1.4.0"
+        , "ee-event-emitter"                : "~1.0.1"
+        , "ee-types"                        : "~2.1.2"
+        , "ee-log"                          : "~2.0.2"
+        , "memcached"                       : "~2.2.2"
         , "ee-arguments"                    : "1.0.x"
         , "ee-project"                      : "0.2.x"
         , "ee-elasticache-autodiscovery"    : "0.1.x"
     }
     , "devDependencies": {
-          "mocha"                           : "1.17.x"
+          "mocha"                           : "~3.3.0"
     }
     , "optionalDependencies"                : {}
     , "keywords"                            : ["ee", "distributed", "cache"]
